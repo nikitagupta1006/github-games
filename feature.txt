@@ -1,1 +1,2 @@
 Feature added in feature branch
+Feature added in feature branch (another commit)
